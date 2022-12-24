@@ -1,2 +1,0 @@
-# vividfsd
-vivi-blog
